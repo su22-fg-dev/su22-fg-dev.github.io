@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-01-04",
+    "title": "Su-22 FlightGear Development Team Established",
+    "tags": ["Team"],
+    "content": [
+      "Project team officially formed.",
+      "Initial roles assigned.",
+      "Goal: high-fidelity Su-22M4 and Su-22UM3K reconstruction for FlightGear."
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "title": "Research Phase Initiated",
+    "tags": ["Research", "Data-gathering"],
+    "content": [
+      "Started gathering historical documents and reference materials.",
+      "Initial flight dynamics data collected.",
+      "Started collecting Su-22 photos."
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "title": "Work on East German Su-22 Manual Translation",
+    "tags": ["Documentation", "Research"],
+    "content": [
+      "Began translating East German manual."
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "title": "GitHub Organization and Project Repositories Created",
+    "tags": ["GitHub", "Website", "Repository"],
+    "content": [
+      "Su-22 FlightGear Development GitHub organization created.",
+      "Project repositories initialized.",
+      "Initial website development started."
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "title": "Initial Aircraft -set.xml File Created",
+    "tags": ["XML", "Sim", "Initialization"],
+    "content": [
+      "Created first version of the Su-22M4-set.xml for FlightGear.",
+      "Basic parameters defined.",
+      "Ready for preliminary simulation testing."
+    ]
+  }
+]
