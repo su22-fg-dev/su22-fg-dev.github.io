@@ -21,7 +21,7 @@
   },
   {
     "date": "2026-01-07",
-    "title": "Work on East German Su-22 Manual Translation",
+    "title": "Work on East German Su-22 Armament Manual Translation",
     "tags": ["Documentation", "Research"],
     "content": [
       "Began translating East German manual."
@@ -45,6 +45,24 @@
       "Created first version of the Su-22M4-set.xml for FlightGear.",
       "Basic parameters defined.",
       "Ready for preliminary simulation testing."
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "title": "Contacted the museums in Speyer and Rothenburg",
+    "tags": ["Documentation", "Research"],
+    "content": [
+      "Research for Su-22 Manuals.",
+    ]
+  },
+    {
+    "date": "2026-01-29",
+    "title": "OpenVSP Aerodynamics model finished.",
+    "tags": ["FDM", "Aero", "JSBSim"],
+    "content": [
+      "Finished the basic version of OpenVSP model of Su-22M4 with @TheEagle.",
+      "Began preparations for CFD calculations.",
+      "Made basic placeholder JSBSim FDM definition."
     ]
   }
 ]
