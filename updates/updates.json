@@ -6,25 +6,25 @@
     "content": [
       "Project team officially formed.",
       "Initial roles assigned.",
-      "Goal: high-fidelity Su-22M4 and Su-22UM3K reconstruction for FlightGear."
+      "Goal defined: high-fidelity Su-22M4 and Su-22UM3K reconstruction for FlightGear."
     ]
   },
   {
     "date": "2026-01-05",
     "title": "Research Phase Initiated",
-    "tags": ["Research", "Data-gathering"],
+    "tags": ["Research", "Data Gathering"],
     "content": [
-      "Started gathering historical documents and reference materials.",
+      "Began gathering historical documents and reference materials.",
       "Initial flight dynamics data collected.",
-      "Started collecting Su-22 photos."
+      "Started collecting Su-22 photographs."
     ]
   },
   {
     "date": "2026-01-07",
-    "title": "Work on East German Su-22 Armament Manual Translation",
+    "title": "East German Su-22 Armament Manual Translation Started",
     "tags": ["Documentation", "Research"],
     "content": [
-      "Began translating East German manual."
+      "Translation of the East German Su-22 armament manual initiated."
     ]
   },
   {
@@ -39,31 +39,30 @@
   },
   {
     "date": "2026-01-09",
-    "title": "Initial Aircraft -set.xml File Created",
-    "tags": ["XML", "Sim", "Initialization"],
+    "title": "Initial Aircraft Set XML Created",
+    "tags": ["XML", "Simulation", "Initialization"],
     "content": [
-      "Created first version of the Su-22M4-set.xml for FlightGear.",
-      "Basic parameters defined.",
-      "Ready for preliminary simulation testing."
+      "Created the first version of the Su-22M4-set.xml file for FlightGear.",
+      "Basic aircraft parameters defined.",
+      "Configuration ready for preliminary simulation testing."
     ]
   },
   {
     "date": "2026-01-18",
-    "title": "Contacted the museums in Speyer and Rothenburg",
+    "title": "Contact with Speyer and Rothenburg Museums",
     "tags": ["Documentation", "Research"],
     "content": [
-      "Research for Su-22 Manuals.",
+      "Contacted museums in Speyer and Rothenburg regarding Su-22 manuals."
     ]
   },
-    {
+  {
     "date": "2026-01-29",
-    "title": "OpenVSP Aerodynamics model finished.",
-    "tags": ["FDM", "Aero", "JSBSim"],
+    "title": "OpenVSP Aerodynamics Model Completed",
+    "tags": ["FDM", "Aerodynamics", "JSBSim"],
     "content": [
-      "Finished the basic version of OpenVSP model of Su-22M4 with @TheEagle.",
-      "Began preparations for CFD calculations.",
-      "Made basic placeholder JSBSim FDM definition."
+      "Completed the basic OpenVSP model of the Su-22M4 with @TheEagle.",
+      "Preparations for CFD calculations started.",
+      "Created a basic placeholder JSBSim FDM definition."
     ]
-    }
   }
 ]
